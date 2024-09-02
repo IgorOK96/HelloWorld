@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9ABC068C2C84665000E0B2AE /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9ABC068C2C84665000E0B2AE /* Lesson HW 2.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lesson HW 2.1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ABC068F2C84665000E0B2AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9ABC06912C84665000E0B2AE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		9ABC06932C84665000E0B2AE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		9ABC068D2C84665000E0B2AE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9ABC068C2C84665000E0B2AE /* HelloWorld.app */,
+				9ABC068C2C84665000E0B2AE /* Lesson HW 2.1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9ABC068B2C84665000E0B2AE /* HelloWorld */ = {
+		9ABC068B2C84665000E0B2AE /* Lesson HW 2.1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9ABC06A02C84665100E0B2AE /* Build configuration list for PBXNativeTarget "HelloWorld" */;
+			buildConfigurationList = 9ABC06A02C84665100E0B2AE /* Build configuration list for PBXNativeTarget "Lesson HW 2.1" */;
 			buildPhases = (
 				9ABC06882C84665000E0B2AE /* Sources */,
 				9ABC06892C84665000E0B2AE /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = HelloWorld;
+			name = "Lesson HW 2.1";
 			productName = HelloWorld;
-			productReference = 9ABC068C2C84665000E0B2AE /* HelloWorld.app */;
+			productReference = 9ABC068C2C84665000E0B2AE /* Lesson HW 2.1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9ABC06872C84665000E0B2AE /* Build configuration list for PBXProject "HelloWorld" */;
+			buildConfigurationList = 9ABC06872C84665000E0B2AE /* Build configuration list for PBXProject "Lesson HW 2.1" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9ABC068B2C84665000E0B2AE /* HelloWorld */,
+				9ABC068B2C84665000E0B2AE /* Lesson HW 2.1 */,
 			);
 		};
 /* End PBXProject section */
@@ -352,7 +352,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9ABC06872C84665000E0B2AE /* Build configuration list for PBXProject "HelloWorld" */ = {
+		9ABC06872C84665000E0B2AE /* Build configuration list for PBXProject "Lesson HW 2.1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9ABC069E2C84665100E0B2AE /* Debug */,
@@ -361,7 +361,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9ABC06A02C84665100E0B2AE /* Build configuration list for PBXNativeTarget "HelloWorld" */ = {
+		9ABC06A02C84665100E0B2AE /* Build configuration list for PBXNativeTarget "Lesson HW 2.1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9ABC06A12C84665100E0B2AE /* Debug */,
